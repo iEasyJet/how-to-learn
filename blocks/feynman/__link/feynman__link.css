@@ -22,5 +22,4 @@
 .feynman__link:hover {
   color: red;
   opacity: 0.6;
-  transform: scale(1.1);
 }

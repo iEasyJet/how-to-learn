@@ -13,5 +13,4 @@
 .header__link:hover {
   opacity: 0.6;
   color: red;
-  transform: scale(1.1);
 }
