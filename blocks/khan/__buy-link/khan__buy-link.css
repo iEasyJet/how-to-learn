@@ -6,6 +6,7 @@
   font-weight: normal;
   color: #2f80ed;
   transition: 0.5s linear;
+  align-self: flex-start;
 }
 
 .khan__buy-link::after {
